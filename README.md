@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a fullstack software developer who develops websites and web apps. I also love sharing my knowledge via teaching/training.
+
+My current stacks are: 
+- HTML5, CSS3, Bootstrap, Bulma CSS & Material UI 
+- Python (Django & Flask)
+- Javascript (Node & Express js)
+- 🌱 I’m currently learning Vue & React js to improve my frontend skills.
+- Databases such as MySql, SQLite, Postgres & Mongo DB.  
+
+
 <!--
 **DPsalmist/dpsalmist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
