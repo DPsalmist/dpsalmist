@@ -6,10 +6,20 @@ My current stacks are:
 - HTML5, CSS3, Bootstrap, Bulma CSS & Material UI 
 - Python (Django & Flask)
 - Javascript (Node & Express js)
-- 🌱 I’m currently learning Vue & React js to improve my frontend skills.
-- Databases such as MySql, SQLite, Postgres & Mongo DB.  
+- Databases such as MySql, SQLite, Postgres & Mongo DB.
+🌱 I’m currently learning Vue & React js to improve my frontend skills.
 
 
+ ## I’m open to collaboration on challenging projects and also open to remote jobs.
+ 
+ 💬 Ask me about Tech facilitating, Python Programming, Javascript Programming, Git & Version Control, etc.
+ 
+ ⚡ Fun fact: I love to sing, teach and love watching football especially Chelsea FC.
+ 
+ 📫 How to reach me: You can reach out to me via:
+                     Tel: +2348163502922
+                     email: sdamilare420@gmail.com
+                     Linkedin: https://www.linkedin.com/in/damilaresamuel26/
 <!--
 **DPsalmist/dpsalmist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
