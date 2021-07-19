@@ -7,7 +7,7 @@ My current stacks are:
 - Python (Django & Flask)
 - Javascript (Node & Express js)
 - Databases such as MySql, SQLite, Postgres & Mongo DB.
-🌱 I’m currently learning Vue & React js to improve my frontend skills.
+- 🌱 I’m currently learning Vue & React js to improve my frontend skills.
 
 
  ## I’m open to collaboration on challenging projects and also open to remote jobs.
