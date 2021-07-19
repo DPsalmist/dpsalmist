@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a fullstack software developer who develops websites and web apps. I also love sharing my knowledge via teaching/training.
+I am a fullstack software developer who develops websites and web apps. I am a machine learning enthusiast. 
+I also love sharing my knowledge via teaching/training.
 
 My current stacks are: 
 - HTML5, CSS3, Bootstrap, Bulma CSS & Material UI 
@@ -8,6 +9,7 @@ My current stacks are:
 - Javascript (Node & Express js)
 - Databases such as MySql, SQLite, Postgres & Mongo DB.
 - 🌱 I’m currently learning Vue & React js to improve my frontend skills.
+- In the future, I'll like to learn firebase and flutter for mobile apps. 
 
 
  ## I’m open to collaboration on challenging projects and also open to remote jobs.
