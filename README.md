@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fullstack software developer who develops websites and web apps. I am a machine learning enthusiast. 
+I am a fullstack software developer who develops websites and web apps. I am a machine learning enthusiast and a tech facilitator. 
 I also love sharing my knowledge via teaching/training.
 
 My current stacks are: 
@@ -8,8 +8,8 @@ My current stacks are:
 - Python (Django & Flask)
 - Javascript (Node & Express js)
 - Databases such as MySql, SQLite, Postgres & Mongo DB.
-- 🌱 I’m currently learning Vue & React js to improve my frontend skills.
-- In the future, I'll like to learn firebase and flutter for mobile apps. 
+- 🌱 My immediate learning plan is Vue js to improve my frontend skills.
+- In the future, I'll like to learn firebase and mobile app development.
 
 
  ## I’m open to collaboration on challenging projects and also open to remote jobs.
