@@ -8,8 +8,9 @@ My current stacks are:
 - Python (Django & Flask)
 - Javascript (Node & Express js)
 - Databases such as MySql, SQLite, Postgres & Mongo DB.
-- 🌱 My immediate learning plan is Vue js to improve my frontend skills.
-- In the future, I'll like to learn firebase and mobile app development.
+- 🌱 My future learning plan is Vue js and a mobile app framework to improve my frontend skills.
+- I'm brushing up my data science/machine skills currently.
+
 
 
  ## I’m open to collaboration on challenging projects and also open to remote jobs.
@@ -22,6 +23,8 @@ My current stacks are:
                      Tel: +2348163502922
                      email: sdamilare420@gmail.com
                      Linkedin: https://www.linkedin.com/in/damilaresamuel26/
+                     
+You can also contact me on <a href="https://www.teacheron.com/tutor-profile/3VZh?r=3VZh" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>
 <!--
 **DPsalmist/dpsalmist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
