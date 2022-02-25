@@ -11,6 +11,7 @@ My current stacks/skills are:
 - Researcher
 - Databases such as MySql, SQLite and Postgres.
 - 🌱 My future learning plan is to improve my frontend skills by mastering a front end framework such as React js.
+- 🌱  I'll also like to learn about blockchains and build mine someday.
 - 👯 I’m open to collaborate on a challenging project in software development, machine learning and data analysis.
 - If you don't find me coding python, you'll see me teaching it.
 
